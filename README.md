@@ -15,7 +15,7 @@ Pastikan sudah install Go-lang, lalu jalankan:
 go install -v [github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest](https://github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest)
 go install -v [github.com/projectdiscovery/httpx/cmd/httpx@latest](https://github.com/projectdiscovery/httpx/cmd/httpx@latest)
 go install -v [github.com/tomnomnom/anew@latest](https://github.com/tomnomnom/anew@latest)
-
+```
 ## Demo & Screenshot Eksekusi
 
 Di bawah adalah dokumentasi script berjalan di terminal Kali Linux.
