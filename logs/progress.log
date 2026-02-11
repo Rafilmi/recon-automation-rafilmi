@@ -1,0 +1,14 @@
+[2026-02-11 12:25:19] Script Recon Dimulai
+[2026-02-11 12:25:19] [*] Mengecek tools...
+[2026-02-11 12:25:19] [OK] Tools lengkap.
+[2026-02-11 12:25:19] [*] Mulai pencarian subdomain...
+[2026-02-11 12:25:19] --> Sedang scan domain: alipay.com
+[2026-02-11 12:25:51] --> Sedang scan domain: taobao.com
+[2026-02-11 12:27:01] --> Sedang scan domain: zhihu.com
+[2026-02-11 12:27:52] --> Sedang scan domain: csdn.net
+[2026-02-11 12:29:16] --> Sedang scan domain: bilibili.com
+[2026-02-11 12:30:00] [+] Total subdomain unik: 10945
+[2026-02-11 12:30:00] [*] Cek live host dengan httpx...
+[2026-02-11 12:37:30] [+] Selesai. Host yang hidup: 9804
+[2026-02-11 12:37:30] [INFO] Hasil disimpan di folder output.
+[2026-02-11 12:37:30] Script Selesai
